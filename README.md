@@ -16,4 +16,4 @@
 
 - 3️⃣ Abra o console MySQL ou o PHPMYADMIN e crie um banco de dados, o nome do banco é projetofinaljava. Copie a pasta .sql do repositório.
 
-- 4️⃣ Abrir a sua IDE ou CMD e executar o projeto: Projeto.jar
+- 4️⃣ Abrir a sua IDE ou CMD e execute o arquivo: Dist/Projeto.jar
